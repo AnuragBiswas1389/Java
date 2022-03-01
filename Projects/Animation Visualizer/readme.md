@@ -1,2 +1,1 @@
-# under construction
-#to be released..
+# This project is under development and will be released soon
